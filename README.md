@@ -10,6 +10,7 @@ Rezeptsammlung aus Google Keep.
 - [Authentic Banana Bread](banana-bread.md)
 - [Cochinita-Style Black Bean Chili](cochinita-black-bean-chili.md)
 - [Koreanische Gemüsepfannkuchen (Yachaejeon)](yachaejeon.md)
+- [Pajeon (Koreanischer Frühlingszwiebel-Pfannkuchen) auf der Plancha](pajeon-plancha.md)
 - [Ultra-Fluffige Zimtschnecken (Tangzhong)](zimtschnecken-tangzhong.md)
 
 ## Sonstiges
