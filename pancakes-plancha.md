@@ -21,7 +21,7 @@
 3. **Mischen:** Flüssigkeit zum Mehl geben und nur kurz rühren (Klümpchen sind okay!).
 4. **Backen:** Plancha auf mittlere Hitze vorheizen. Teigportionen erst wenden, wenn die Oberseite Blasen wirft und die Unterseite goldbraun ist.
 
-## Profi-Tipps
+## Profi-Tipp
 
 - **Sofort backen:** Da kein Natron enthalten ist, die Triebkraft des Backpulvers direkt nutzen.
 - **Reinigung:** Die warme Platte mit Wasser ablöschen (Déglacer) und sanft reinigen.

@@ -11,7 +11,9 @@ Rezeptsammlung aus Google Keep.
 - [Cochinita-Style Black Bean Chili](cochinita-black-bean-chili.md)
 - [Koreanische Gemüsepfannkuchen (Yachaejeon)](yachaejeon.md)
 - [Pajeon (Koreanischer Frühlingszwiebel-Pfannkuchen) auf der Plancha](pajeon-plancha.md)
+- [Mango-Hähnchen-Bowl von der Plancha](mango-haehnchen-bowl-plancha.md)
 - [Ultra-Fluffige Zimtschnecken (Tangzhong)](zimtschnecken-tangzhong.md)
+- [Matcha Latte (P & T Everyday Matcha)](matcha-latte-pt-everyday.md)
 
 ## Sonstiges
 

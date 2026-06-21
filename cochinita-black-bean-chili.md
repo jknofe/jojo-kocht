@@ -2,7 +2,7 @@
 
 *Bearbeitet: 28. März*
 
-Dieses Gericht ist eine Fusion aus der mexikanischen Cochinita Pibil (Yucatán) und einem klassischen Slow-Cooked Chili. Durch das Schmoren im geschlossenen Bräter bei niedriger Temperatur wird der Schweinenacken durch Hydrolyse butterweich.
+*Dieses Gericht ist eine Fusion aus der mexikanischen Cochinita Pibil (Yucatán) und einem klassischen Slow-Cooked Chili. Durch das Schmoren im geschlossenen Bräter bei niedriger Temperatur wird der Schweinenacken durch Hydrolyse butterweich.*
 
 ## Zutaten
 

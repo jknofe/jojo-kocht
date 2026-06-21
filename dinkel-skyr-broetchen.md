@@ -2,7 +2,9 @@
 
 *Bearbeitet: 1. März*
 
-## Zutaten (für 500g Skyr)
+*Für 500 g Skyr*
+
+## Zutaten
 
 - 430 g Dinkelmehl Type 630
 - 500 g Skyr

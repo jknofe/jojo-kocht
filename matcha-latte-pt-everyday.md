@@ -1,8 +1,10 @@
 # Matcha Latte (P & T Everyday Matcha)
 
-Cremiger Latte mit P & T No. 411 Everyday Matcha (kulinarische Qualität). Setup mit WMF Lono Milk & Choc.
+*Cremiger Latte mit P & T No. 411 Everyday Matcha (kulinarische Qualität). Setup mit WMF Lono Milk & Choc.*
 
-## Zutaten (1 Portion)
+*1 Portion*
+
+## Zutaten
 
 | Menge | Zutat |
 |---|---|

@@ -1,6 +1,6 @@
 # Pajeon (Koreanischer Frühlingszwiebel-Pfannkuchen) auf der Plancha
 
-Knusprig, würzig und in Minuten fertig – auf der heißen Plancha bekommt der klassische koreanische Pfannkuchen eine perfekte, gleichmäßige Kruste.
+*Knusprig, würzig und in Minuten fertig – auf der heißen Plancha bekommt der klassische koreanische Pfannkuchen eine perfekte, gleichmäßige Kruste.*
 
 ## Zutaten
 
@@ -18,7 +18,7 @@ Knusprig, würzig und in Minuten fertig – auf der heißen Plancha bekommt der 
 - 2 1/2 ml Chiliflocken (Gochugaru)
 - 4.9 ml Sesamsamen
 
-## Schritte
+## Zubereitung
 
 1. Die Plancha auf 230–240 °C vorheizen. Wassertropfen-Test: Ein paar Tropfen Wasser auf die Fläche geben – tanzen und verdampfen sie sofort in kleinen Perlen (Leidenfrost-Effekt), ist die Temperatur perfekt.
 2. In einer Schüssel 120 g Weizenmehl (Type 405), 30 g Reismehl (für extra Knusprigkeit) und 2 1/2 ml Salz mischen. 200 ml Eiskaltes Wasser und 1 Ei sowie 15 ml Sojasoße (für den Teig) dazugeben und kurz verrühren – der Teig darf leicht klumpig sein, nicht überrühren! Eiskaltes Wasser ist entscheidend für die Knusprigkeit.
@@ -29,7 +29,7 @@ Knusprig, würzig und in Minuten fertig – auf der heißen Plancha bekommt der 
 7. Vorsichtig mit einem breiten Pfannenwender wenden. Noch etwas 44 ml Traubenkernöl (hoher Rauchpunkt) am Rand einträufeln lassen. Die zweite Seite 3–4 Minuten braten, bis auch sie goldbraun und knusprig ist.
 8. Den Pajeon in mundgerechte Stücke schneiden und sofort mit der Dip-Soße servieren. Auf der Plancha bleibt er länger warm – einfach auf niedriger Stufe halten.
 
-## Notizen
+## Profi-Tipp
 
 **Plancha-Tipps:**
 - **Reismehl** ist das Geheimnis der Knusprigkeit – ersetzt bis zu 25 % des Weizenmehls.
