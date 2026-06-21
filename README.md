@@ -12,6 +12,8 @@ Rezeptsammlung aus Google Keep.
 - [Koreanische Gemüsepfannkuchen (Yachaejeon)](yachaejeon.md)
 - [Pajeon (Koreanischer Frühlingszwiebel-Pfannkuchen) auf der Plancha](pajeon-plancha.md)
 - [Mango-Hähnchen-Bowl von der Plancha](mango-haehnchen-bowl-plancha.md)
+- [Grill-Räucher-Hähnchenschenkel vom Kamado](haehnchenschenkel-kamado.md)
+- [Schweinefilet Reverse-Sear vom Kamado](schweinefilet-kamado.md)
 - [Ultra-Fluffige Zimtschnecken (Tangzhong)](zimtschnecken-tangzhong.md)
 - [Matcha Latte (P & T Everyday Matcha)](matcha-latte-pt-everyday.md)
 

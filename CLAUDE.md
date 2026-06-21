@@ -33,3 +33,4 @@ Non-recipe notes (shopping lists, how-tos) use the same H1 + optional italic dat
 - File names are lowercase, hyphenated, descriptive (`my-recipe-name.md`).
 - No frontmatter, no tags, no YAML — plain markdown only.
 - When restyling an existing recipe, change only structure and formatting. Never alter ingredient amounts or step wording.
+- After committing changes, always push to the remote.
