@@ -17,6 +17,7 @@ Rezeptsammlung aus Google Keep.
 - [Ultra-Fluffige Zimtschnecken (Tangzhong)](zimtschnecken-tangzhong.md)
 - [Matcha Latte (P & T Everyday Matcha)](matcha-latte-pt-everyday.md)
 - [Authentische Big-Mac-Sauce (Special Sauce)](big-mac-sauce.md)
+- [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
 
 ## Sonstiges
 
