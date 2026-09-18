@@ -7,7 +7,7 @@
 ## Zutaten
 
 - 600 g Pizzamehl Tipo 00 (alternativ Weizenmehl Type 550)
-- 390 g kaltes Wasser (65 %)
+- 390 g kaltes Wasser, ca. 10–15 °C aus der Leitung (65 %)
 - 15 g Salz
 - 2 g frische Hefe (ca. erbsengroß) oder 0,7 g Trockenhefe (knapp 1/4 TL)
 - 12 g Olivenöl (optional, macht den Rand im Haushaltsofen etwas weicher)
@@ -15,7 +15,7 @@
 
 ## Zubereitung
 
-1. **Hefe auflösen:** Hefe im kalten Wasser verrühren, bis sie sich aufgelöst hat.
+1. **Hefe auflösen:** Hefe im kalten Wasser (10–15 °C) verrühren, bis sie sich aufgelöst hat. Das Wasser bleibt bewusst kalt, damit der Teig nach dem Kneten bei ca. 22–24 °C liegt und vor der Kaltgare nicht zu stark angeht. Nur bei sehr kalter Küche (unter 18 °C) Wasser mit Raumtemperatur nehmen.
 2. **Mischen:** Mehl zugeben und mit der Hand oder Küchenmaschine grob vermengen, bis kein trockenes Mehl mehr zu sehen ist. 20 Min. abgedeckt ruhen lassen (Autolyse).
 3. **Salz und Öl:** Salz und Olivenöl zugeben und 8–10 Min. kneten (Maschine niedrige Stufe), bis der Teig glatt ist und sich vom Schüsselrand löst. Er darf noch klebrig sein.
 4. **Dehnen und Falten:** Teig in eine leicht geölte Schüssel geben. In den nächsten 60 Min. dreimal im Abstand von 20 Min. dehnen und falten: Teig an einer Seite hochziehen, über die Mitte legen, Schüssel eine Vierteldrehung weiterdrehen, viermal wiederholen.
