@@ -39,3 +39,25 @@ Die beste Kombination im Haushaltsofen ist ein Backstahl mit Grillfunktion: Ofen
 - 18 Uhr: Pizza backen.
 
 Bei 18 Std. Kaltgare den Teig einfach entsprechend später aus dem Kühlschrank holen. Länger als 24 Std. wird der Teig mit dieser Hefemenge langsam schlaff.
+
+## Blech-Variante
+
+*Für ein normales Backblech (ca. 30 × 40 cm) reicht etwa 3/4 vom Rezept. Die Pizza wird dicker und noch luftiger, Richtung Pizza al taglio. Mit dem ganzen Rezept wird es ein richtig dickes Blech, mit der Hälfte eine dünne, knusprige Blechpizza.*
+
+### Zutaten
+
+- 450 g Pizzamehl Tipo 00 (alternativ Weizenmehl Type 550)
+- 290 g kaltes Wasser, ca. 10–15 °C
+- 11 g Salz
+- 1,5 g frische Hefe oder 0,5 g Trockenhefe
+- 12 g Olivenöl (hier nicht optional)
+- 2–3 EL Olivenöl für das Blech
+
+### Zubereitung
+
+1. **Teig:** Kneten, Dehnen und Falten sowie Kaltgare wie oben (Schritte 1–5).
+2. **Aufs Blech:** Blech großzügig mit Olivenöl einfetten. Den kalten Teig als ganzes Stück daraufsetzen und mit geölten Fingern grob Richtung Ecken ziehen. Er springt zurück, das ist normal.
+3. **Gehen lassen:** Abgedeckt 2–3 Std. bei Raumtemperatur gehen lassen. Nach ca. 1 Std., wenn der Teig entspannter ist, noch einmal bis in die Ecken ziehen.
+4. **Dellen:** Vor dem Belegen mit den Fingerspitzen Dellen in den Teig drücken, sonst wölbt er sich in der Mitte.
+5. **Belegen:** Dünn belegen. Käse erst in den letzten Minuten drauf, damit der Teig Zeit zum Aufgehen hat.
+6. **Backen:** Ofen auf 250 °C Ober-/Unterhitze vorheizen, Blech auf die unterste Schiene, denn die Hitze von unten macht den Boden knusprig. Wer einen Pizzastein hat, legt ihn unten in den Ofen und stellt das Blech direkt darauf. 15–20 Min. backen, bis der Boden braun ist.
