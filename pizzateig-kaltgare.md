@@ -51,6 +51,16 @@ Bei 18 Std. Kaltgare den Teig einfach entsprechend später aus dem Kühlschrank 
 5. **Belegen:** Dünn belegen. Käse erst in den letzten Minuten drauf, damit der Teig Zeit zum Aufgehen hat.
 6. **Backen:** Ofen auf 250 °C Ober-/Unterhitze vorheizen, Blech auf die unterste Schiene, denn die Hitze von unten macht den Boden knusprig. Wer einen Pizzastein hat, legt ihn unten in den Ofen und stellt das Blech direkt darauf. 20–25 Min. backen, bis der Boden braun ist und die Mitte durchgebacken ist.
 
+## Wenn die Pizza am Blech klebt
+
+Bei der Blech-Variante klebt der Teig meist aus einem dieser Gründe fest: Das Öl wird in den 2–3 Std. Stückgare vom weichen Teig aufgesaugt, Soße oder Käse laufen bis an den Rand und karamellisieren auf dem Blech, oder der Boden ist noch nicht durchgebacken und deshalb weich.
+
+- **Backpapier:** Die sicherste Lösung. Backpapier aufs Blech, trotzdem 2–3 EL Olivenöl darauf verteilen, dann den Teig aufsetzen. Bei 250 °C wird das Papier braun, das ist unkritisch.
+- **Öl plus Semola:** Ohne Backpapier das Blech großzügig ölen und zusätzlich mit Hartweizengrieß bestreuen. Der Grieß wirkt wie ein Kugellager, der Teig saugt das Öl nicht komplett auf, und der Boden wird knuspriger.
+- **Rand freilassen:** Soße und Käse mit ca. 1 cm Abstand zum Blechrand auftragen. Was über den Teig hinausläuft, brennt am Blech an und klebt wie Kleber.
+- **Boden prüfen:** Vor dem Rausnehmen mit einem Pfannenwender eine Ecke anheben. Ist der Boden noch hell und weich, weitere 5 Min. auf der untersten Schiene backen. Ein durchgebackener, brauner Boden löst sich fast von selbst.
+- **Lösen:** Blech 1–2 Min. stehen lassen, dann mit einer Palette oder einem dünnen Pfannenwender einmal rundherum am Rand entlang und anschließend unter die Pizza fahren, bevor sie auf ein Brett gezogen wird.
+
 ## Gehen im Backofen
 
 Der Backofen bei 30 °C ist eine Trockenkammer: Die Heizung treibt die Feuchtigkeit aus der Luft, und der Teig bekommt oben eine trockene Haut, die beim Aufgehen reißt und beim Backen hart wird. Wenn der Ofen als Gärschrank dienen soll:
