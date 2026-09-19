@@ -21,7 +21,7 @@
 4. **Dehnen und Falten:** Teig in eine leicht geölte Schüssel geben. In den nächsten 60 Min. dreimal im Abstand von 20 Min. dehnen und falten: Teig an einer Seite hochziehen, über die Mitte legen, Schüssel eine Vierteldrehung weiterdrehen, viermal wiederholen.
 5. **Kaltgare:** Schüssel abgedeckt (Deckel oder Folie) für 12–18 Std. in den Kühlschrank stellen.
 6. **Teiglinge formen:** Teig aus dem Kühlschrank nehmen, auf eine leicht bemehlte Fläche stürzen und in 4 Stücke à ca. 260 g teilen. Jedes Stück zu einer straffen Kugel schleifen (Ränder nach unten einschlagen, Naht nach unten).
-7. **Stückgare:** Kugeln mit Abstand in eine leicht geölte Box oder auf ein bemehltes Blech setzen, abdecken und 2–3 Std. bei Raumtemperatur gehen lassen. Sie sollten sich deutlich vergrößert haben und weich sein.
+7. **Stückgare:** Kugeln mit Abstand in eine leicht geölte Box oder auf ein bemehltes Blech setzen, dicht abdecken (Deckel, umgedrehtes zweites Blech oder Blech in einen großen Plastikbeutel) und 2–3 Std. bei Raumtemperatur gehen lassen. Sie sollten sich deutlich vergrößert haben und weich sein. Ein Tuch reicht nicht, sonst trocknet die Oberfläche an.
 8. **Ofen vorheizen:** Pizzastein oder Stahl auf der zweitobersten Schiene mindestens 45–60 Min. bei voller Hitze (250–300 °C, Ober-/Unterhitze) aufheizen. Ohne Stein ein umgedrehtes Backblech mit aufheizen.
 9. **Ausziehen:** Teigling in Semola wälzen, mit den Fingerspitzen von der Mitte nach außen flach drücken und dabei einen ca. 2 cm breiten Rand stehen lassen. Nicht mit dem Nudelholz ausrollen, sonst geht die Luft aus dem Rand verloren. Auf den Handrücken auf 28–30 cm ausziehen.
 10. **Belegen:** Auf eine gut mit Semola bestreute Schaufel (oder Backpapier) legen, dünn belegen. Weniger ist mehr, sonst wird die Mitte nass.
@@ -46,7 +46,16 @@ Bei 18 Std. Kaltgare den Teig einfach entsprechend später aus dem Kühlschrank 
 
 1. **Teig:** Kneten, Dehnen und Falten sowie Kaltgare wie oben (Schritte 1–5), mit Olivenöl im Teig.
 2. **Aufs Blech:** Blech großzügig mit 2–3 EL Olivenöl einfetten. Den kalten Teig als ganzes Stück daraufsetzen und mit geölten Fingern grob Richtung Ecken ziehen. Er springt zurück, das ist normal.
-3. **Gehen lassen:** Abgedeckt 2–3 Std. bei Raumtemperatur gehen lassen. Nach ca. 1 Std., wenn der Teig entspannter ist, noch einmal bis in die Ecken ziehen.
+3. **Gehen lassen:** Die Oberfläche mit Olivenöl bestreichen, damit sie keine Haut bildet. Dicht abdecken (zweites Blech umgedreht drauf oder das Blech in einen großen Plastikbeutel schieben) und 2–3 Std. bei Raumtemperatur gehen lassen. Nach ca. 1 Std., wenn der Teig entspannter ist, noch einmal bis in die Ecken ziehen und nachölen.
 4. **Dellen:** Vor dem Belegen mit den Fingerspitzen Dellen in den Teig drücken, sonst wölbt er sich in der Mitte.
 5. **Belegen:** Dünn belegen. Käse erst in den letzten Minuten drauf, damit der Teig Zeit zum Aufgehen hat.
 6. **Backen:** Ofen auf 250 °C Ober-/Unterhitze vorheizen, Blech auf die unterste Schiene, denn die Hitze von unten macht den Boden knusprig. Wer einen Pizzastein hat, legt ihn unten in den Ofen und stellt das Blech direkt darauf. 20–25 Min. backen, bis der Boden braun ist und die Mitte durchgebacken ist.
+
+## Gehen im Backofen
+
+Der Backofen bei 30 °C ist eine Trockenkammer: Die Heizung treibt die Feuchtigkeit aus der Luft, und der Teig bekommt oben eine trockene Haut, die beim Aufgehen reißt und beim Backen hart wird. Wenn der Ofen als Gärschrank dienen soll:
+
+- Nur die Ofenlampe einschalten statt zu heizen. Das ergibt meist 25–28 °C, ohne dass die Luft austrocknet.
+- Eine Schüssel mit heißem Wasser mit in den Ofen stellen.
+- Teig dicht abdecken (Deckel, umgedrehtes Blech oder Plastikbeutel), nicht nur mit einem Tuch.
+- Bei der Blech-Variante die Oberfläche immer mit Olivenöl bestreichen.
