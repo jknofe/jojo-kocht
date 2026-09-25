@@ -18,6 +18,7 @@ Rezeptsammlung aus Google Keep.
 - [Matcha Latte (P & T Everyday Matcha)](matcha-latte-pt-everyday.md)
 - [Authentische Big-Mac-Sauce (Special Sauce)](big-mac-sauce.md)
 - [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
+- [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
 
 ## Sonstiges
 
