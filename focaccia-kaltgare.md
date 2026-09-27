@@ -36,7 +36,7 @@
 3. **Kneten:** Salz zugeben und auf niedriger Stufe 4–5 Min. kneten, bis der Teig sich zu einem Klumpen um den Haken formt und vom Schüsselrand löst.
 4. **Restwasser einarbeiten:** Bei laufender Maschine (niedrige bis mittlere Stufe) die restlichen 40 ml Wasser in 3–4 Portionen zugießen. Jede Portion erst vollständig aufnehmen lassen, bevor die nächste kommt, dann löst sich der Teig wieder vom Rand. Diese Technik (Bassinage) bringt viel Wasser in den Teig, ohne dass das Glutennetz zusammenbricht.
 5. **Öl einarbeiten:** Olivenöl in einem dünnen Strahl zulaufen lassen und weiterkneten, bis es aufgenommen ist und der Teig glänzt. Insgesamt ca. 10–12 Min. Knetzeit. Der Teig ist fertig, wenn er sich dünn ausziehen lässt, ohne sofort zu reißen (Fenstertest). Er bleibt sehr weich und klebrig, das ist richtig so. Die Maschine nicht auf hoher Stufe laufen lassen, sonst wird der Teig zu warm (Ziel: unter 25 °C).
-6. **Dehnen und Falten:** Teig in eine geölte Box mit Deckel geben. In der nächsten Stunde zweimal im Abstand von 30 Min. dehnen und falten: Mit nasser Hand eine Seite hochziehen, über die Mitte legen, Box eine Vierteldrehung weiterdrehen, viermal wiederholen. Danach sollte der Teig sichtbar Spannung haben und sich vom Boden der Box lösen.
+6. **Coil Folds bei Raumtemperatur:** Teig in eine geölte Box mit Deckel geben. In den nächsten 1,5 Std. dreimal im Abstand von 30 Min. falten: Mit nassen Händen den Teig in der Mitte anheben, sodass die Enden nach unten hängen, und die Enden darunter einschlagen. Box eine Vierteldrehung weiterdrehen und wiederholen. Das ist schonender als klassisches Dehnen und Falten und baut trotzdem Spannung auf. Aufhören, sobald der Teig in der Box seine Form hält und oben leicht gewölbt ist. Nach der letzten Runde bei Raumtemperatur stehen lassen, bis der Teig insgesamt etwa 50 % größer ist und Blasen zeigt, erst dann in den Kühlschrank. So bringt er schon Gas mit und gärt im Kühlschrank weiter.
 7. **Kaltgare:** Box verschlossen für 24–48 Std. in den Kühlschrank stellen (ca. 4–6 °C). Je länger, desto aromatischer und großporiger.
 8. **Aufs Blech:** Blech mit den 40 ml Olivenöl großzügig einfetten, auch die Ränder. Den kalten Teig vorsichtig aus der Box auf das Blech gleiten lassen, nicht zusammendrücken. Einmal von oben und unten zur Mitte falten, sodass ein Rechteck entsteht, und mit der Naht nach unten legen. Oberseite mit etwas Öl aus dem Blech benetzen.
 9. **Blechgare:** Abgedeckt bei Raumtemperatur 3–4 Std. gehen lassen. Nach ca. 1 Std., wenn der Teig entspannt ist, mit geölten Fingern vorsichtig bis in die Ecken schieben. Nicht ziehen und nicht reißen. Der Teig ist fertig, wenn er sich mindestens verdoppelt hat, große Blasen an der Oberfläche zeigt und beim Rütteln am Blech wabbelt.
@@ -53,7 +53,8 @@ Wie großporig die Focaccia wird, hängt vor allem vom Mehl ab. Auf der Packung 
 ## Zeitplan
 
 - Tag 1, 18 Uhr: Teig mischen, Autolyse, in der Küchenmaschine kneten.
-- 18:45–19:45 Uhr: Zweimal dehnen und falten, danach in den Kühlschrank.
+- 18:45–20:15 Uhr: Dreimal Coil Folds, danach stehen lassen, bis der Teig ca. 50 % größer ist.
+- Ca. 20:30 Uhr: In den Kühlschrank.
 - Tag 2 oder Tag 3, 14 Uhr: Teig aufs Blech, Blechgare bei Raumtemperatur.
 - 17 Uhr: Ofen vorheizen.
 - 17:45 Uhr: Salamoia, Dellen, backen.
