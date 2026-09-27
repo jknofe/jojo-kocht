@@ -11,7 +11,7 @@
 - 500 g Pizzamehl Tipo 00 (mit mindestens 12 g Eiweiß pro 100 g, siehe Profi-Tipp)
 - 400 ml kaltes Wasser, ca. 15 °C (80 %)
 - 12 g Salz
-- 3 g frische Hefe oder 1 g Trockenhefe*
+- 3 g frische Hefe
 - 15 ml Olivenöl extra vergine
 
 ### Blech
@@ -28,8 +28,6 @@
 
 - Grobes Meersalz oder Fleur de Sel
 - 2 Zweige Rosmarin (optional)
-
-*Trockenhefe ist Ersatz für frische Hefe, beide funktionieren gleich gut.
 
 ## Zubereitung
 
