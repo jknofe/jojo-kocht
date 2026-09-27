@@ -52,12 +52,28 @@ Wie großporig die Focaccia wird, hängt vor allem vom Mehl ab. Auf der Packung 
 
 ## Zeitplan
 
-- Tag 1, 18 Uhr: Teig mischen, Autolyse, in der Küchenmaschine kneten.
-- 18:45–20:15 Uhr: Dreimal Coil Folds, danach stehen lassen, bis der Teig ca. 50 % größer ist.
-- Ca. 20:30 Uhr: In den Kühlschrank.
-- Tag 2 oder Tag 3, 14 Uhr: Teig aufs Blech, Blechgare bei Raumtemperatur.
-- 17 Uhr: Ofen vorheizen.
-- 17:45 Uhr: Salamoia, Dellen, backen.
-- 18:15 Uhr: Abkühlen lassen und anschneiden.
+*Beispiel: Freitag 16 Uhr starten, Sonntag 17:30 Uhr anschneiden. Gebacken in einer hohen Form (ca. 25 × 35 cm) bei 250 °C, deshalb etwas längere Blechgare und Backzeit.*
 
-In einer warmen Küche (über 24 °C) ist die Blechgare oft schon nach 2,5 Std. fertig, in einer kalten (unter 20 °C) kann sie 5 Std. dauern. Immer nach dem Teig gehen, nicht nach der Uhr.
+### Freitag
+
+- 16 Uhr: Hefe auflösen, Mehl einrühren, 30 Min. Autolyse.
+- 16:30 Uhr: In der Küchenmaschine kneten (Salz, Restwasser, Öl) bis zum Fenstertest.
+- 16:45 Uhr: Teig in die geölte Box, erste Runde Coil Folds.
+- 17:15 Uhr: Zweite Runde Coil Folds.
+- 17:45 Uhr: Dritte Runde Coil Folds, danach bei Raumtemperatur stehen lassen.
+- Ca. 18:30 Uhr: Sobald der Teig ca. 50 % größer ist, in den Kühlschrank.
+
+### Samstag
+
+- Nichts zu tun, der Teig gärt im Kühlschrank.
+
+### Sonntag
+
+- 12 Uhr: Teig aus der Box in die geölte Form gleiten lassen (Kaltgare ca. 41 Std.).
+- 12–16:45 Uhr: Blechgare bei Raumtemperatur, knapp 5 Std.
+- 16 Uhr: Ofen auf 250 °C vorheizen.
+- 16:45 Uhr: Salamoia, Dellen, Salz und Rosmarin, 25–30 Min. backen.
+- 17:15 Uhr: Aus der Form auf ein Gitter heben, 15 Min. abkühlen lassen.
+- 17:30 Uhr: Anschneiden.
+
+Immer nach dem Teig gehen, nicht nach der Uhr. Wabbelt er schon gegen 15:30 Uhr und zeigt große Blasen, früher vorheizen und backen, die Focaccia hält warm problemlos bis 17:30 Uhr. Ist er um 16:45 Uhr noch nicht so weit, die Form in den Ofen mit eingeschalteter Lampe stellen (ca. 26–28 °C) und vor dem Vorheizen wieder herausnehmen. In einer warmen Küche (über 24 °C) geht die Blechgare deutlich schneller, in einer kalten (unter 20 °C) dauert sie länger.
