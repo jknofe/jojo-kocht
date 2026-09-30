@@ -8,7 +8,7 @@
 
 ### Teig
 
-- 500 g Weizenmehl Type 550 (oder Type 405 mit hohem Eiweißgehalt)
+- 500 g [Pizzamehl von Bürgermühle](https://www.burgermuehle.de/produkt/10020/pizzamehl) (13 g Eiweiß pro 100 g, siehe Profi-Tipp)
 - 375 ml kaltes Wasser, ca. 15 °C (75 %)
 - 10 g Salz
 - 1 g frische Hefe (ca. eine Erbse groß) oder 0,4 g Trockenhefe
@@ -28,4 +28,4 @@
 
 ## Profi-Tipp
 
-Die Kruste wird nur dann richtig dünn und knusprig, wenn im Ofen in den ersten 10 Min. viel Dampf steht. Hat der Ofen eine Dampffunktion, diese nutzen. Bleiben die Einschnitte nicht offen, war der Teig zu wenig gegart oder die Klinge zu stumpf. Wer es noch aromatischer mag, lässt den Teig bis zu 36 Std. im Kühlschrank.
+Die Kruste wird nur dann richtig dünn und knusprig, wenn im Ofen in den ersten 10 Min. viel Dampf steht. Hat der Ofen eine Dampffunktion, diese nutzen. Bleiben die Einschnitte nicht offen, war der Teig zu wenig gegart oder die Klinge zu stumpf. Mit Type 405 (12 g Eiweiß) funktioniert das Rezept auch, dann das Wasser auf 350 ml (70 %) reduzieren, sonst läuft der Teig breit. Wer es noch aromatischer mag, lässt den Teig bis zu 36 Std. im Kühlschrank.
