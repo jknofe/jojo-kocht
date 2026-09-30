@@ -19,6 +19,7 @@ Rezeptsammlung aus Google Keep.
 - [Authentische Big-Mac-Sauce (Special Sauce)](big-mac-sauce.md)
 - [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
 - [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
+- [Luftige Baguettes mit Kaltgare (16–24 Std.)](baguette-kaltgare.md)
 
 ## Sonstiges
 
