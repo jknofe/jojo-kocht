@@ -29,3 +29,23 @@
 ## Profi-Tipp
 
 Die Kruste wird nur dann richtig dünn und knusprig, wenn im Ofen in den ersten 10 Min. viel Dampf steht. Hat der Ofen eine Dampffunktion, diese nutzen. Bleiben die Einschnitte nicht offen, war der Teig zu wenig gegart oder die Klinge zu stumpf. Wer es noch aromatischer mag, lässt den Teig bis zu 36 Std. im Kühlschrank.
+
+## Zeitplan
+
+*Beispiel: Freitag 16 Uhr starten, Samstag 17 Uhr anschneiden (ca. 21 Std. Kaltgare).*
+
+### Freitag
+
+- 16:00 Uhr: Hefe im Wasser auflösen, Mehl und Salz einarbeiten.
+- 16:30 Uhr: 1. Faltrunde.
+- 17:00 Uhr: 2. Faltrunde.
+- 17:30 Uhr: 3. Faltrunde, danach abgedeckt in den Kühlschrank.
+
+### Samstag
+
+- 14:30 Uhr: Teig aus dem Kühlschrank nehmen, teilen, locker zusammenlegen und 20 Min. entspannen lassen.
+- 15:00 Uhr: Baguettes formen, ins Leinentuch legen und 45 Min. Stückgare.
+- 15:30 Uhr: Ofen mit Stein und Dampfblech auf 250 °C vorheizen.
+- 16:15 Uhr: Einschneiden und einschieben. Nach 10 Min. Dampf ablassen, auf 230 °C senken.
+- 16:40 Uhr: Baguettes aus dem Ofen auf ein Gitter.
+- 17:00 Uhr: Anschneiden.
