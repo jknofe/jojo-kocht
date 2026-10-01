@@ -32,14 +32,14 @@ Die Kruste wird nur dann richtig dünn und knusprig, wenn im Ofen in den ersten 
 
 ## Zeitplan
 
-*Beispiel: Freitag 16 Uhr starten, Samstag 17 Uhr anschneiden (ca. 21 Std. Kaltgare).*
+*Beispiel: Freitag 13 Uhr starten, Samstag 17 Uhr anschneiden (ca. 24 Std. Kaltgare).*
 
 ### Freitag
 
-- 16:00 Uhr: Hefe im Wasser auflösen, Mehl und Salz einarbeiten.
-- 16:30 Uhr: 1. Faltrunde.
-- 17:00 Uhr: 2. Faltrunde.
-- 17:30 Uhr: 3. Faltrunde, danach abgedeckt in den Kühlschrank.
+- 13:00 Uhr: Hefe im Wasser auflösen, Mehl und Salz einarbeiten.
+- 13:30 Uhr: 1. Faltrunde.
+- 14:00 Uhr: 2. Faltrunde.
+- 14:30 Uhr: 3. Faltrunde, danach abgedeckt in den Kühlschrank.
 
 ### Samstag
 
