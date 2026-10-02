@@ -8,20 +8,24 @@
 
 ### Teig
 
-- 500 g [Weizenmehl Type 550 von Bürgermühle](https://www.burgermuehle.de/produkt/10002/weizenmehl-550)
-- 250 g Joghurt, 3,5 % Fett, zimmerwarm
-- 140 ml lauwarme Milch oder Wasser
-- 15 g frische Hefe
-- 10 g Zucker
-- 10 g Salz
-- 30 ml neutrales Öl oder flüssige Butter
+| Zutat | Menge |
+| --- | --- |
+| [Weizenmehl Type 550 von Bürgermühle](https://www.burgermuehle.de/produkt/10002/weizenmehl-550) | 500 g |
+| Joghurt, 3,5 % Fett, zimmerwarm | 250 g |
+| Milch oder Wasser, lauwarm | 140 ml |
+| Frische Hefe | 15 g (10 g bei 2,5 Std. Gare) |
+| Zucker | 10 g |
+| Salz | 10 g |
+| Neutrales Öl oder flüssige Butter | 30 ml |
 
 ### Zum Bestreichen
 
-- 40 g Butter oder Ghee
-- 1 Knoblauchzehe, fein gerieben (optional)
-- Frischer Koriander oder Petersilie, gehackt (optional)
-- Schwarzkümmel oder Sesam (optional)
+| Zutat | Menge |
+| --- | --- |
+| Butter oder Ghee | 40 g |
+| Knoblauch, fein gerieben (optional) | 1 Zehe |
+| Koriander oder Petersilie, gehackt (optional) | 1 Handvoll |
+| Schwarzkümmel oder Sesam (optional) | 1 TL |
 
 ## Zubereitung
 
