@@ -37,3 +37,20 @@
 ## Profi-Tipp
 
 Die Plancha nicht einölen, Naan wird trocken gebacken, sonst frittiert es und wird nicht blasig. Wird der Fladen zu dunkel, bevor er Blasen wirft, die Hitze etwas senken. Reste lassen sich eingefroren aufbewahren und in der Pfanne oder im Toaster in Minuten wieder aufbacken.
+
+## Zeitplan
+
+*Beispiel: Start 14:00 Uhr, ab 17:00 Uhr auf der Plancha braten. Die Gare dauert ca. 2,5 Std. statt 1 Std., deshalb nur 10 g frische Hefe statt 15 g nehmen.*
+
+| Zeit | Arbeitsschritt |
+| --- | --- |
+| 14:00 Uhr | Hefe mit Zucker in der lauwarmen Milch auflösen, 5 Min. stehen lassen. |
+| 14:05 Uhr | Mehl, Joghurt, Hefemilch, Salz und Öl in die Küchenmaschine geben und 8–10 Min. kneten. |
+| 14:15 Uhr | Teig in eine geölte Schüssel geben, abdecken und warm stehen lassen. |
+| 15:15 Uhr | Optional: Teig einmal kurz mit nassen Händen falten, das gibt mehr Struktur. |
+| 16:30 Uhr | Teig sollte sich mehr als verdoppelt haben und Blasen zeigen. Wenn nicht, noch 15 Min. warten. |
+| 16:35 Uhr | Teig in 8 Stücke teilen, zu Kugeln formen und 10 Min. abgedeckt entspannen lassen. Butter mit Knoblauch schmelzen. |
+| 16:45 Uhr | Plancha auf mittlere bis hohe Hitze vorheizen. |
+| 16:55 Uhr | Die ersten Kugeln ausrollen oder mit den Fingern ziehen. |
+| 17:00 Uhr | Naan braten: ca. 1 Min. pro Seite, abdecken, mit Knoblauchbutter bestreichen. |
+| 17:20 Uhr | Alle 8 Naan sind fertig, in einem Tuch warm gehalten. |
