@@ -1,8 +1,20 @@
 # Schnelles Naan auf der Plancha
 
-*Weiches, blasiges Naan mit Hefe und Joghurt, direkt auf der Plancha gebacken.*
+*Weiches, blasiges Naan mit Hefe und Joghurt, ohne Kaltgare. Der Teig geht ca. 2,5 Std. warm und wird dann direkt auf der heißen Plancha gebacken. Der Joghurt macht die Krume zart und leicht säuerlich. Bei nur 1 Std. Gare 15 g statt 10 g frische Hefe nehmen.*
 
-*Portionen: 8 Naan. Start 14:00 Uhr, braten ab 17:00 Uhr.*
+*Portionen: 8 Naan (je ca. 120 g). Aktive Zeit ca. 30 Min., Gare ca. 2,5 Std., Backzeit ca. 2 Min. pro Stück.*
+
+## Zutaten
+
+- 500 g [Weizenmehl Type 550 von Bürgermühle](https://www.burgermuehle.de/produkt/10002/weizenmehl-550)
+- 250 g Joghurt, 3,5 % Fett, zimmerwarm
+- 140 ml lauwarme Milch
+- 10 g frische Hefe
+- 10 g Zucker
+- 10 g Salz
+- 30 ml neutrales Öl
+- 40 g Butter oder Ghee
+- 1 Knoblauchzehe
 
 ## Zubereitung
 
