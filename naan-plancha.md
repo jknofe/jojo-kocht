@@ -26,3 +26,7 @@
 | 16:45 | Plancha | ohne Öl auf mittlere bis hohe Hitze vorheizen |
 | 17:00 | Kugeln | dünn ausrollen, je ca. 1 Min. pro Seite braten |
 | danach | 40 g geschmolzene Butter<br>1 Knoblauchzehe, gerieben | heiße Naan bestreichen, im Tuch warm halten |
+
+## Profi-Tipp
+
+Die Plancha nicht einölen, Naan wird trocken gebacken, sonst frittiert es und wird nicht blasig. Wird der Fladen zu dunkel, bevor er Blasen wirft, die Hitze etwas senken. Reste lassen sich einfrieren und in der Pfanne oder im Toaster in Minuten wieder aufbacken.
