@@ -19,7 +19,7 @@ All recipes share the same skeleton, in this order:
 3. `*Kurzbeschreibung.*` — optional italic intro. Longer background prose stays in this italic block too.
 4. `*Portionen: ...*` or `*Für 500 g ...*` — optional italic meta line (yield, times). Not inside a heading.
 5. `## Zutaten` — bullet list with `-`. Group with `### Untertitel` (e.g. `### Dip`, `### Füllung`) where needed. Tables are allowed when they read better (see the matcha recipe).
-6. `## Zubereitung` — numbered list `1.`, steps in the `**Stichwort:** Text` form where it fits. Multi-phase recipes may add a second phase heading such as `## Backen (Am Morgen)`.
+6. `## Zubereitung` — new recipes use one table `Zeit | Zutaten | Aktion` as defined in the `rezept-format` skill (`.claude/skills/rezept-format/SKILL.md`, reference: `naan-plancha.md`). Older recipes still use a numbered list `1.` with `**Stichwort:** Text` steps; convert them only when asked.
 7. `## Profi-Tipp` — optional, singular. Further optional sections (e.g. `## Gerätehinweis`, `## Eiskalt-Variante`) may follow.
 
 Non-recipe notes (shopping lists, how-tos) use the same H1 + optional italic date/intro, then a materials section (`## Zutaten` or `## Material`) and a steps section (`## Anleitung`), without the cooking sections.
