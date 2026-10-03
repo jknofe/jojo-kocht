@@ -21,6 +21,7 @@ Rezeptsammlung aus Google Keep.
 - [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
 - [Luftige Baguettes mit Kaltgare (16–24 Std.)](baguette-kaltgare.md)
 - [Schnelles Naan auf der Plancha](naan-plancha.md)
+- [Butter-Zucker-Kuchen vom Blech](butter-zucker-kuchen.md)
 
 ## Sonstiges
 
