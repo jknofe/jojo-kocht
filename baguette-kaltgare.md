@@ -16,7 +16,7 @@
 
 | Zeit | Zutaten | Aktion |
 | --- | --- | --- |
-| Fr 13:00 | 375 ml kaltes Wasser<br>2,5 g frische Hefe<br>500 g Mehl 550<br>10 g Salz | Hefe im Wasser auflösen, alles in der Küchenmaschine 1–2 Min. auf niedriger Stufe kneten, 30 Min. abgedeckt ruhen lassen |
+| Fr 13:00 | 375 ml kaltes Wasser<br>2,5 g frische Hefe<br>500 g Mehl 550<br>10 g Salz | Hefe im Wasser auflösen, alles in der Küchenmaschine 2–3 Min. auf niedriger Stufe kneten, 30 Min. abgedeckt ruhen lassen |
 | Fr 13:30 | Teig | 1. Faltrunde mit nassen Händen |
 | Fr 14:00 | Teig | 2. Faltrunde |
 | Fr 14:30 | Teig | 3. Faltrunde, abgedeckt in den Kühlschrank (4–6 °C) |
