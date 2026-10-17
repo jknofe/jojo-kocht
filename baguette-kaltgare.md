@@ -17,9 +17,10 @@
 | Zeit | Zutaten | Aktion |
 | --- | --- | --- |
 | Fr 13:00 | 375 ml kaltes Wasser<br>2,5 g frische Hefe<br>500 g Mehl 550 | Hefe im Wasser auflösen, Mehl zugeben und verrühren, bis kein trockenes Mehl mehr zu sehen ist, 30 Min. abgedeckt ruhen lassen (Autolyse) |
-| Fr 13:30 | Teig<br>10 g Salz | Salz zugeben, 2–3 Min. in der Küchenmaschine auf niedriger Stufe kneten, direkt danach 1. Faltrunde mit nassen Händen |
-| Fr 14:00 | Teig | 2. Faltrunde |
-| Fr 14:30 | Teig | 3. Faltrunde, abgedeckt in den Kühlschrank (4–6 °C) |
+| Fr 13:30 | Teig<br>10 g Salz | Salz zugeben, 2–3 Min. in der Küchenmaschine auf niedriger Stufe kneten, 30 Min. abgedeckt ruhen lassen |
+| Fr 14:00 | Teig | 1. Faltrunde mit nassen Händen |
+| Fr 14:30 | Teig | 2. Faltrunde |
+| Fr 15:00 | Teig | 3. Faltrunde (nur wenn der Teig noch sehr weich ist), abgedeckt in den Kühlschrank (4–6 °C) |
 | Sa 14:30 | Teig | auf bemehlte Fläche stürzen, in 4 Stücke (je ca. 220 g) teilen, locker aufrollen, 45 Min. abgedeckt ruhen lassen |
 | Sa 15:15 | Teigstücke | zu ca. 28 cm langen Stangen formen, Naht nach oben ins bemehlte Leinentuch, 45–60 Min. gehen lassen |
 | Sa 15:30 | Ofen | Stein oder Blech auf die mittlere, leeres Blech auf die unterste Schiene, auf 250 °C Ober-/Unterhitze vorheizen |

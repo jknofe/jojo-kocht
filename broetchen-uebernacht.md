@@ -17,9 +17,10 @@
 | Zeit | Zutaten | Aktion |
 | --- | --- | --- |
 | Fr 19:00 | 375 ml Wasser, ca. 20 °C<br>1 g frische Hefe<br>500 g Mehl 550 | Hefe im Wasser auflösen, Mehl zugeben und verrühren, bis kein trockenes Mehl mehr zu sehen ist, 30 Min. abgedeckt ruhen lassen (Autolyse) |
-| Fr 19:30 | Teig<br>10 g Salz | Salz zugeben, 2-3 Min. in der Küchenmaschine auf niedriger Stufe kneten, direkt danach 1. Faltrunde (wie beim Baguette) |
-| Fr 20:00 | Teig | 2. Faltrunde |
-| Fr 20:30 | Teig | 3. Faltrunde, in eine Box mit geraden Wänden füllen, Füllhöhe außen markieren (Gummiband oder Klebeband), abgedeckt bei 19-20 °C über Nacht stehen lassen, ca. 11-12 Std. |
+| Fr 19:30 | Teig<br>10 g Salz | Salz zugeben, 2-3 Min. in der Küchenmaschine auf niedriger Stufe kneten, 30 Min. abgedeckt ruhen lassen |
+| Fr 20:00 | Teig | 1. Faltrunde (wie beim Baguette) |
+| Fr 20:30 | Teig | 2. Faltrunde |
+| Fr 21:00 | Teig | 3. Faltrunde (nur wenn der Teig noch sehr weich ist), in eine Box mit geraden Wänden füllen, Füllhöhe außen markieren (Gummiband oder Klebeband), abgedeckt bei 19-20 °C über Nacht stehen lassen, ca. 11-12 Std. |
 | Sa 06:45 | Teig | prüfen: ca. 2-2,5-fach gewachsen, gewölbt, mit Blasen, wackelt beim Rütteln (siehe Gelingkontrolle) |
 | Sa 06:45 | Ofen | 250 °C Ober-/Unterhitze, Backblech auf mittlerer Schiene mitheizen, leeres Blech oder Schale unten für Dampf |
 | Sa 06:45 | Teig | vorsichtig auf bemehlte Fläche stürzen, nicht zusammendrücken, in 8 Stücke à ca. 110 g teilen, locker vorformen, 15 Min. entspannen |
