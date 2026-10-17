@@ -20,6 +20,7 @@ Rezeptsammlung aus Google Keep.
 - [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
 - [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
 - [Luftige Baguettes mit Kaltgare (16–24 Std.)](baguette-kaltgare.md)
+- [Übernacht-Brötchen ohne Kühlschrank (ca. 12 Std.)](broetchen-uebernacht.md)
 - [Schnelles Naan auf der Plancha](naan-plancha.md)
 - [Butter-Zucker-Kuchen vom Blech](butter-zucker-kuchen.md)
 
