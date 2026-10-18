@@ -10,6 +10,7 @@ Rezeptsammlung aus Google Keep.
 - [Übernacht-Brötchen ohne Kühlschrank (ca. 12 Std.)](broetchen-uebernacht.md)
 - [Dinkel-Skyr-Brötchen (No-Knead)](dinkel-skyr-broetchen.md)
 - [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
+- [Übernacht-Focaccia ohne Kühlschrank (ca. 12 Std.)](focaccia-uebernacht.md)
 - [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
 - [Schnelles Naan auf der Plancha](naan-plancha.md)
 
