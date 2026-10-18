@@ -1,6 +1,6 @@
 # Joghurt-Masala-Hähnchen-Dal mit Spinat
 
-*Cremiger Eintopf aus roten Linsen, Tomaten und Spinat mit zartem Hähnchen, das über Nacht in Joghurt und Garam Masala mariniert wurde. Der Joghurt macht das Fleisch mürbe, die Linsen zerfallen und binden den Eintopf ganz ohne Sahne. Viel Eiweiß, satt machend, gut zum Vorkochen.*
+*Cremiger Eintopf aus roten Linsen, Tomaten und Spinat mit zartem Hähnchen, das über Nacht in Joghurt und Garam Masala mariniert wurde. Das Hähnchen gart ohne Anbraten direkt im Eintopf, der Joghurt macht es mürbe, die Linsen zerfallen und binden den Eintopf ganz ohne Sahne. Viel Eiweiß, satt machend, gut zum Vorkochen.*
 
 *Portionen: 5 (je ca. 550 g). Marinieren über Nacht, aktive Zeit ca. 20 Min., Kochzeit ca. 25 Min.*
 
@@ -24,8 +24,8 @@
 | --- | --- | --- |
 | Vortag abends | 800 g Hähnchenkeule<br>250 g Joghurt 3,8 %<br>ca. 2 EL Garam Masala | Hähnchen klein schneiden, mit Joghurt und Garam Masala mischen, abgedeckt über Nacht in den Kühlschrank |
 | 0 Min. | 30 ml Olivenöl<br>2 rote Zwiebeln, gewürfelt | im Topf bei mittlerer Hitze ca. 5 Min. glasig anschwitzen |
-| +5 Min. | Hähnchen samt Marinade | zugeben, ca. 5 Min. unter Rühren anbraten |
-| +10 Min. | 600 ml Tomaten<br>600 ml Wasser<br>500 g rote Linsen | einrühren, aufkochen, zugedeckt ca. 15 Min. leise köcheln, ab und zu umrühren |
+| +5 Min. | 600 ml Tomaten<br>600 ml Wasser<br>500 g rote Linsen | einrühren, aufkochen, ca. 5 Min. leise köcheln |
+| +10 Min. | Hähnchen samt Marinade | ohne Anbraten unterrühren, zugedeckt ca. 15 Min. leise köcheln, ab und zu umrühren |
 | +25 Min. | 250 g TK-Blattspinat | unterrühren, ca. 5 Min. weiterköcheln, bis der Spinat aufgetaut ist |
 | +30 Min. | 20 ml Sojasoße<br>5 g Salz | abschmecken, servieren |
 
