@@ -23,6 +23,7 @@ Rezeptsammlung aus Google Keep.
 - [Übernacht-Brötchen ohne Kühlschrank (ca. 12 Std.)](broetchen-uebernacht.md)
 - [Schnelles Naan auf der Plancha](naan-plancha.md)
 - [Butter-Zucker-Kuchen vom Blech](butter-zucker-kuchen.md)
+- [Joghurt-Masala-Hähnchen-Dal mit Spinat](haehnchen-masala-dal.md)
 
 ## Sonstiges
 
