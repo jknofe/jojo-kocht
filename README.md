@@ -4,26 +4,43 @@ Rezeptsammlung aus Google Keep.
 
 ## Rezepte
 
-- [McRib](mcrib.md)
-- [Dinkel-Skyr-Brötchen (No-Knead)](dinkel-skyr-broetchen.md)
-- [American Buttermilch-Pancakes (Plancha)](pancakes-plancha.md)
-- [Authentic Banana Bread](banana-bread.md)
-- [Cochinita-Style Black Bean Chili](cochinita-black-bean-chili.md)
-- [Koreanische Gemüsepfannkuchen (Yachaejeon)](yachaejeon.md)
-- [Pajeon (Koreanischer Frühlingszwiebel-Pfannkuchen) auf der Plancha](pajeon-plancha.md)
-- [Mango-Hähnchen-Bowl von der Plancha](mango-haehnchen-bowl-plancha.md)
-- [Grill-Räucher-Hähnchenschenkel vom Kamado](haehnchenschenkel-kamado.md)
-- [Direkt gegrilltes Schweinefilet vom Kamado](schweinefilet-kamado.md)
-- [Ultra-Fluffige Zimtschnecken (Tangzhong)](zimtschnecken-tangzhong.md)
-- [Matcha Latte (P & T Everyday Matcha)](matcha-latte-pt-everyday.md)
-- [Authentische Big-Mac-Sauce (Special Sauce)](big-mac-sauce.md)
-- [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
-- [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
+### Brot, Brötchen und Teige
+
 - [Luftige Baguettes mit Kaltgare (16–24 Std.)](baguette-kaltgare.md)
 - [Übernacht-Brötchen ohne Kühlschrank (ca. 12 Std.)](broetchen-uebernacht.md)
+- [Dinkel-Skyr-Brötchen (No-Knead)](dinkel-skyr-broetchen.md)
+- [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
+- [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
 - [Schnelles Naan auf der Plancha](naan-plancha.md)
-- [Butter-Zucker-Kuchen vom Blech](butter-zucker-kuchen.md)
+
+### Hauptgerichte
+
 - [Joghurt-Masala-Hähnchen-Dal mit Spinat](haehnchen-masala-dal.md)
+- [Cochinita-Style Black Bean Chili](cochinita-black-bean-chili.md)
+- [Mango-Hähnchen-Bowl von der Plancha](mango-haehnchen-bowl-plancha.md)
+- [McRib](mcrib.md)
+
+### Grillen (Kamado)
+
+- [Grill-Räucher-Hähnchenschenkel vom Kamado](haehnchenschenkel-kamado.md)
+- [Direkt gegrilltes Schweinefilet vom Kamado](schweinefilet-kamado.md)
+
+### Koreanische Pfannkuchen
+
+- [Koreanische Gemüsepfannkuchen (Yachaejeon)](yachaejeon.md)
+- [Pajeon (Koreanischer Frühlingszwiebel-Pfannkuchen) auf der Plancha](pajeon-plancha.md)
+
+### Süßes und Frühstück
+
+- [American Buttermilch-Pancakes (Plancha)](pancakes-plancha.md)
+- [Authentic Banana Bread](banana-bread.md)
+- [Butter-Zucker-Kuchen vom Blech](butter-zucker-kuchen.md)
+- [Ultra-Fluffige Zimtschnecken (Tangzhong)](zimtschnecken-tangzhong.md)
+
+### Saucen und Getränke
+
+- [Authentische Big-Mac-Sauce (Special Sauce)](big-mac-sauce.md)
+- [Matcha Latte (P & T Everyday Matcha)](matcha-latte-pt-everyday.md)
 
 ## Sonstiges
 
