@@ -23,10 +23,11 @@
 | Sa 19:45 | Teig | 1. Faltrunde mit nassen Händen: Teigrand hochziehen und zur Mitte falten, rundherum 4-6 Mal |
 | Sa 20:15 | Teig | 2. Faltrunde |
 | Sa 20:45 | Teig | 3. Faltrunde (nur wenn der Teig noch sehr weich ist), in eine Box mit geraden Wänden füllen, Füllhöhe außen markieren, abgedeckt bei ca. 18 °C über Nacht stehen lassen |
-| So 07:45 | Teig<br>Ofen | prüfen: ca. 2-fach gewachsen, gewölbt, mit Blasen (siehe Gelingkontrolle), Ofen auf 250 °C Ober-/Unterhitze mit Blech auf mittlerer Schiene und leerem Blech unten für Dampf vorheizen |
+| So 07:15 | Ofen | Backstahl auf die zweite Schiene von unten, leeres Blech ganz unten für Dampf, 250 °C Ober-/Unterhitze, mind. 60 Min. vorheizen |
+| So 07:45 | Teig | prüfen: ca. 2-fach gewachsen, gewölbt, mit Blasen (siehe Gelingkontrolle) |
 | So 07:45 | Teig<br>Kerne | vorsichtig auf bemehlte Fläche stürzen, nicht zusammendrücken, mit bemehlter Teigkarte 8-10 Stücke abstechen, mit der Oberseite in Kerne drücken, auf Backpapier setzen, abgedeckt ca. 30 Min. gehen lassen |
-| So 08:15 | Brötchen<br>1 Tasse heißes Wasser | samt Papier aufs heiße Blech ziehen, Wasser aufs untere Blech, Tür sofort zu, 10 Min. bei 250 °C |
-| So 08:25 | Ofen | Dampf ablassen, auf 220 °C senken, 10-12 Min. goldbraun backen, Brötchen klingen hohl |
+| So 08:15 | Brötchen<br>1 Tasse heißes Wasser | samt Papier mit einem Brett oder Schieber auf den heißen Backstahl ziehen, Wasser aufs untere Blech, Tür sofort zu, 10 Min. bei 250 °C |
+| So 08:25 | Ofen | Dampf ablassen, auf 220 °C senken, Unterseite prüfen, 10-12 Min. goldbraun backen, Brötchen klingen hohl |
 | So 08:35 | Brötchen | 10 Min. auf dem Gitter abkühlen lassen |
 
 ## Gelingkontrolle (morgens)
