@@ -20,6 +20,7 @@ Rezeptsammlung aus Google Keep.
 - [Cochinita-Style Black Bean Chili](cochinita-black-bean-chili.md)
 - [Mango-Hähnchen-Bowl von der Plancha](mango-haehnchen-bowl-plancha.md)
 - [McRib](mcrib.md)
+- [Thai Chili-Knoblauch-Hack (Kra-Pao-Stil)](thai-chili-knoblauch-hack.md)
 
 ### Grillen (Kamado)
 
