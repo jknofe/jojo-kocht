@@ -39,7 +39,7 @@
 
 ## Profi-Tipp
 
-Dinkel geht schneller über die Gare als Weizen und wird dann klebrig und flach. Deshalb lieber etwas zu früh als zu spät backen und die Volumenmarke an der Box im Blick behalten, nicht die Uhr. Ist die Küche wärmer als 18 °C, geht der Teig deutlich schneller. 0,8 g Hefe lassen sich kaum abwiegen: 5 g Hefe in 50 ml vom Wasser auflösen und davon 8 ml (= 0,8 g Hefe) abmessen, den Rest wegschütten.
+Dinkel geht schneller über die Gare als Weizen und wird dann klebrig und flach. Deshalb lieber etwas zu früh als zu spät backen und die Volumenmarke an der Box im Blick behalten, nicht die Uhr. Ist die Küche wärmer als 18 °C, geht der Teig deutlich schneller. 0,8 g Hefe lassen sich kaum abwiegen: 5 g Hefe in 50 ml zusätzlichem Wasser auflösen, davon 8 ml (= 0,8 g Hefe) zu den 325 ml geben, den Rest wegschütten.
 
 ## Quellen / Vergleich
 
