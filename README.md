@@ -9,6 +9,7 @@ Rezeptsammlung aus Google Keep.
 - [Luftige Baguettes mit Kaltgare (16–24 Std.)](baguette-kaltgare.md)
 - [Übernacht-Brötchen ohne Kühlschrank (ca. 12 Std.)](broetchen-uebernacht.md)
 - [Dinkel-Skyr-Brötchen (No-Knead)](dinkel-skyr-broetchen.md)
+- [Dinkel-Übernacht-Brötchen ohne Kneten und ohne Kühlschrank](dinkel-broetchen-uebernacht.md)
 - [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
 - [Übernacht-Focaccia ohne Kühlschrank (ca. 12 Std.)](focaccia-uebernacht.md)
 - [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
