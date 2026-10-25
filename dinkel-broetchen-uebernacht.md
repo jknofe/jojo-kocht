@@ -12,7 +12,6 @@
 - 10 g Salz
 - 1 TL Honig (optional, für die Bräunung)
 - 10 ml Olivenöl (optional, für eine weichere Krume)
-- Kerne zum Bestreuen (optional)
 - 1 Tasse heißes Wasser für den Dampf
 
 ## Zubereitung
@@ -26,7 +25,7 @@
 | So 07:15 | Ofen | Backstahl auf die zweite Schiene von unten, leeres Blech ganz unten für Dampf, 250 °C Ober-/Unterhitze, mind. 60 Min. vorheizen |
 | So 07:45 | Teig | prüfen: ca. 2-fach gewachsen, gewölbt, mit Blasen (siehe Gelingkontrolle) |
 | So 07:45 | Teig | vorsichtig auf leicht bemehlte Fläche stürzen, in 8-10 Stücke teilen, locker rund vorformen, 10 Min. abgedeckt entspannen |
-| So 07:55 | Teigstücke<br>Kerne | straff rundschleifen (siehe Profi-Tipp), Oberseite befeuchten und in Kerne drücken, mit der Naht nach unten eng nebeneinander auf Backpapier setzen, abgedeckt 20-25 Min. gehen lassen |
+| So 07:55 | Teigstücke | straff rundschleifen (siehe Profi-Tipp), mit der Naht nach unten eng nebeneinander auf Backpapier setzen, abgedeckt 20-25 Min. gehen lassen |
 | So 08:15 | Brötchen<br>1 Tasse heißes Wasser | samt Papier mit einem Brett oder Schieber auf den heißen Backstahl ziehen, Wasser aufs untere Blech, Tür sofort zu, 10 Min. bei 250 °C |
 | So 08:25 | Ofen | Dampf ablassen, auf 220 °C senken, Unterseite prüfen, 10-12 Min. goldbraun backen, Brötchen klingen hohl |
 | So 08:35 | Brötchen | 10 Min. auf dem Gitter abkühlen lassen |
