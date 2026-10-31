@@ -13,7 +13,7 @@ Rezeptsammlung aus Google Keep.
 - [Luftige Focaccia mit Kaltgare (24–48 Std.)](focaccia-kaltgare.md)
 - [Übernacht-Focaccia ohne Kühlschrank (ca. 12 Std.)](focaccia-uebernacht.md)
 - [Luftiger Pizzateig mit Kaltgare (12–18 Std.)](pizzateig-kaltgare.md)
-- [Fluffiger Pizzateig über Nacht ohne Kühlschrank (ca. 21 Std.)](pizzateig-uebernacht.md)
+- [Fluffiger Pizzateig über Nacht ohne Kühlschrank (ca. 25 Std.)](pizzateig-uebernacht.md)
 - [Schnelles Naan auf der Plancha](naan-plancha.md)
 
 ### Hauptgerichte

@@ -1,14 +1,14 @@
-# Fluffiger Pizzateig über Nacht ohne Kühlschrank (ca. 21 Std.)
+# Fluffiger Pizzateig über Nacht ohne Kühlschrank (ca. 25 Std.)
 
-*Abwandlung von [Luftiger Pizzateig mit Kaltgare](pizzateig-kaltgare.md) mit dem Ablauf der [Übernacht-Brötchen](broetchen-uebernacht.md): Autolyse, dann Salz und Kneten, Faltrunden, Stockgare über Nacht bei ca. 18 °C, mittags Teiglinge formen, abends backen. Für einen dicken, fluffigen Rand gibt es mehr Wasser (70 %) und schwerere Teiglinge (ca. 280 g), die nur auf 26-28 cm ausgezogen werden. Nur 0,9 g Hefe (0,14 %), weil der Teig ca. 21 Std. bei Raumtemperatur steht. Der Zeitplan startet Samstag 21 Uhr, gebacken wird Sonntag 18:30 Uhr.*
+*Abwandlung von [Luftiger Pizzateig mit Kaltgare](pizzateig-kaltgare.md) mit dem Ablauf der [Übernacht-Brötchen](broetchen-uebernacht.md): Autolyse, dann Salz und Kneten, Faltrunden, Stockgare über Nacht bei ca. 17 °C, vormittags Teiglinge formen, nachmittags backen. Für einen dicken, fluffigen Rand gibt es mehr Wasser (70 %) und schwerere Teiglinge (ca. 280 g), die nur auf 26-28 cm ausgezogen werden. Nur 0,8 g Hefe (0,12 %), weil der Teig ca. 25 Std. bei Raumtemperatur steht. Der Zeitplan startet Samstag 15 Uhr, gegessen wird Sonntag 17 Uhr. Bei ca. 18-19 °C oder nur ca. 21 Std. Gesamtzeit 0,9 g Hefe nehmen.*
 
-*Portionen: 4 Pizzen à ca. 280 g (26-28 cm). Aktive Zeit ca. 40 Min., Stockgare ca. 15 Std. bei 18 °C, Stückgare ca. 6 Std., Backzeit 6-8 Min. pro Pizza.*
+*Portionen: 4 Pizzen à ca. 280 g (26-28 cm). Aktive Zeit ca. 40 Min., Stockgare ca. 19 Std. bei 17 °C, Stückgare ca. 6 Std., Backzeit 6-8 Min. pro Pizza.*
 
 ## Zutaten
 
 - 650 g [Pizzamehl von Bürgermühle](https://www.burgermuehle.de/produkt/10020/pizzamehl) oder Tipo 00 (mind. 12 g Eiweiß pro 100 g)
-- 455 ml Wasser, ca. 20 °C (70 %)
-- 0,9 g frische Hefe (siehe Profi-Tipp zum Abmessen)
+- 455 ml Wasser, ca. 23 °C (70 %)
+- 0,8 g frische Hefe (siehe Profi-Tipp zum Abmessen)
 - 16 g Salz
 - 13 ml Olivenöl extra vergine (2 %, macht den Rand im Haushaltsofen weicher)
 - etwas Olivenöl für Box und Teiglinge
@@ -18,31 +18,31 @@
 
 | Zeit | Zutaten | Aktion |
 | --- | --- | --- |
-| Sa 21:00 | 425 ml Wasser, ca. 20 °C<br>0,9 g frische Hefe<br>650 g Pizzamehl | Hefe im Wasser auflösen, Mehl zugeben und verrühren, bis kein trockenes Mehl mehr zu sehen ist, 30 Min. abgedeckt ruhen lassen (Autolyse), 30 ml Wasser zurückhalten |
-| Sa 21:30 | Teig<br>16 g Salz<br>30 ml Wasser<br>13 ml Olivenöl | Salz zugeben, 6-8 Min. auf niedriger Stufe kneten, restliches Wasser in 2-3 Portionen einarbeiten, Öl zugeben, kneten bis der Teig glatt ist und sich vom Rand löst, in eine geölte Box mit geraden Wänden, 30 Min. abgedeckt ruhen lassen |
-| Sa 22:00 | Teig | 1. Faltrunde mit nassen Händen |
-| Sa 22:30 | Teig | 2. Faltrunde |
-| Sa 23:00 | Teig | 3. Faltrunde (nur wenn der Teig noch sehr weich ist), Füllhöhe außen markieren, abgedeckt bei ca. 18 °C über Nacht stehen lassen |
-| So 12:00 | Teig | prüfen: ca. 1,5-2-fach gewachsen, Blasen (siehe Gelingkontrolle), auf leicht bemehlte Fläche stürzen, in 4 Stücke à ca. 280 g teilen, straff zu Kugeln schleifen, mit Abstand in eine leicht geölte Box mit Deckel setzen |
-| So 12:00-18:30 | Teiglinge | abgedeckt bei ca. 18 °C ca. 6 Std. gehen lassen, fertig wenn sie deutlich größer, weich und leicht wabbelig sind |
-| So 17:30 | Ofen | Backstahl auf die zweitoberste Schiene, Ober-/Unterhitze auf höchster Stufe, mind. 60 Min. vorheizen |
-| So 18:30 | Teigling<br>Semola | in Semola legen, mit den Fingerspitzen von der Mitte nach außen drücken, ca. 3 cm Rand nicht berühren, auf 26-28 cm ausziehen, auf die Schaufel, sparsam belegen |
-| So 18:30 | Pizza | direkt vor dem Einschießen auf Grill umschalten, 6-8 Min. backen, bis der Rand aufgeblasen ist und braune Blasen zeigt, vor der nächsten Pizza 5 Min. Ober-/Unterhitze nachheizen |
+| Sa 15:00 | 425 ml Wasser, ca. 23 °C<br>0,8 g frische Hefe<br>650 g Pizzamehl | Hefe im Wasser auflösen, Mehl zugeben und verrühren, bis kein trockenes Mehl mehr zu sehen ist, 30 Min. abgedeckt ruhen lassen (Autolyse), 30 ml Wasser zurückhalten |
+| Sa 15:30 | Teig<br>16 g Salz<br>30 ml Wasser<br>13 ml Olivenöl | Salz zugeben, 6-8 Min. auf niedriger Stufe kneten, restliches Wasser in 2-3 Portionen einarbeiten, Öl zugeben, kneten bis der Teig glatt ist und sich vom Rand löst, in eine geölte Box mit geraden Wänden, 30 Min. abgedeckt ruhen lassen |
+| Sa 16:00 | Teig | 1. Faltrunde mit nassen Händen |
+| Sa 16:30 | Teig | 2. Faltrunde |
+| Sa 17:00 | Teig | 3. Faltrunde (nur wenn der Teig noch sehr weich ist), Füllhöhe außen markieren, abgedeckt bei ca. 17 °C über Nacht stehen lassen |
+| So 10:00 | Teig | prüfen: ca. 1,5-2-fach gewachsen, Blasen (siehe Gelingkontrolle), auf leicht bemehlte Fläche stürzen, in 4 Stücke à ca. 280 g teilen, straff zu Kugeln schleifen, mit Abstand in eine leicht geölte Box mit Deckel setzen |
+| So 10:00-16:15 | Teiglinge | abgedeckt bei ca. 17 °C ca. 6 Std. gehen lassen, fertig wenn sie deutlich größer, weich und leicht wabbelig sind |
+| So 15:15 | Ofen | Backstahl auf die zweitoberste Schiene, Ober-/Unterhitze auf höchster Stufe, mind. 60 Min. vorheizen |
+| So 16:15 | Teigling<br>Semola | in Semola legen, mit den Fingerspitzen von der Mitte nach außen drücken, ca. 3 cm Rand nicht berühren, auf 26-28 cm ausziehen, auf die Schaufel, sparsam belegen |
+| So 16:15-17:00 | Pizza | direkt vor dem Einschießen auf Grill umschalten, 6-8 Min. backen, bis der Rand aufgeblasen ist und braune Blasen zeigt, vor der nächsten Pizza 5 Min. Ober-/Unterhitze nachheizen |
 
 ## Gelingkontrolle
 
 | Befund | Bedeutung | Aktion |
 | --- | --- | --- |
-| mittags ca. 1,5-2× Volumen, Blasen | Optimal | Weiter nach Plan |
-| mittags unter 1,3×, kaum Blasen | Untergare | Box 1-2 Std. in den Ofen nur mit Licht (ca. 26-28 °C), dann Teiglinge formen |
-| mittags über 2,5×, eingefallen, sehr klebrig | Übergare | Teiglinge sofort formen und bis ca. 1 Std. vor dem Backen in den Kühlschrank |
-| nachmittags Teiglinge laufen breit und kleben | Teiglinge übergar | früher vorheizen und backen |
-| um 18:00 Uhr Teiglinge noch fest und klein | Teiglinge untergar | Box in den Ofen nur mit Licht, vor dem Vorheizen wieder raus |
-| abends um 23 Uhr schon deutlich gestiegen | Küche zu warm | Box in den Kühlschrank, morgens 2 Std. vor dem Formen raus |
+| vormittags ca. 1,5-2× Volumen, Blasen | Optimal | Weiter nach Plan |
+| vormittags unter 1,3×, kaum Blasen | Untergare | Box 1-2 Std. in den Ofen nur mit Licht (ca. 26-28 °C), dann Teiglinge formen |
+| vormittags über 2,5×, eingefallen, sehr klebrig | Übergare | Teiglinge sofort formen und bis ca. 1 Std. vor dem Backen in den Kühlschrank |
+| mittags Teiglinge laufen breit und kleben | Teiglinge übergar | früher vorheizen und backen |
+| um 15:00 Uhr Teiglinge noch fest und klein | Teiglinge untergar | Box in den Ofen nur mit Licht, vor dem Vorheizen wieder raus |
+| abends um 22 Uhr schon deutlich gestiegen | Küche zu warm | Box in den Kühlschrank, morgens 2 Std. vor dem Formen raus |
 
 ## Profi-Tipp
 
-Für den dicken, fluffigen Rand den Rand beim Ausziehen nie flach drücken, nur die Mitte, und nicht mit dem Nudelholz arbeiten. Die Luft aus der Mitte wandert so in den Rand. Dick belegte Pizza bleibt in der Mitte roh, deshalb sparsam belegen. 0,9 g Hefe lassen sich kaum abwiegen: 5 g Hefe in 50 ml zusätzlichem Wasser auflösen, davon 9 ml (= 0,9 g Hefe) zu den 425 ml geben, den Rest wegschütten.
+Für den dicken, fluffigen Rand den Rand beim Ausziehen nie flach drücken, nur die Mitte, und nicht mit dem Nudelholz arbeiten. Die Luft aus der Mitte wandert so in den Rand. Dick belegte Pizza bleibt in der Mitte roh, deshalb sparsam belegen. Vier Pizzen nacheinander dauern mit Nachheizen ca. 45 Min., deshalb um 16:15 Uhr anfangen. 0,8 g Hefe lassen sich kaum abwiegen: 5 g Hefe in 50 ml zusätzlichem Wasser auflösen, davon 8 ml (= 0,8 g Hefe) zu den 425 ml geben, den Rest wegschütten.
 
 ## Quellen / Vergleich
 
