@@ -18,6 +18,7 @@ Rezeptsammlung aus Google Keep.
 ### Hauptgerichte
 
 - [Joghurt-Masala-Hähnchen-Dal mit Spinat](haehnchen-masala-dal.md)
+- [Gebratener Masala-Paneer auf Linsen-Dal mit Tadka](masala-paneer-dal.md)
 - [Cochinita-Style Black Bean Chili](cochinita-black-bean-chili.md)
 - [Mango-Hähnchen-Bowl von der Plancha](mango-haehnchen-bowl-plancha.md)
 - [McRib](mcrib.md)
