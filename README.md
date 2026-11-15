@@ -50,5 +50,3 @@ Rezeptsammlung aus Google Keep.
 ## Sonstiges
 
 - [DIY Kettenreiniger-Spray](diy-striptease-spray.md)
-- [Gusseisen-Restauration](gusseisen-restauration.md)
-- [Einkaufsliste LDL-Senker](einkaufsliste-ldl-senker.md)
